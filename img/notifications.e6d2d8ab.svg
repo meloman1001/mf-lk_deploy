@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.508" height="22.199" viewBox="0 0 19.508 22.199">
+  <g id="уведомления" transform="translate(1.008)">
+    <g id="bells" transform="translate(-2)">
+      <path id="Контур_17" data-name="Контур 17" d="M13.508,18.207V13.331a4.331,4.331,0,1,0-8.661,0v4.906A10.109,10.109,0,0,0,2,21.72l.091,2.726H16.355V21.72a10.209,10.209,0,0,0-2.847-3.513Z" transform="translate(0 -6.274)" fill="none" stroke="#00b956" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Линия_5" data-name="Линия 5" y2="2.726" transform="translate(9.177)" fill="none" stroke="#00b956" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Контур_18" data-name="Контур 18" d="M23.295,60v1.181a1.847,1.847,0,0,1-3.695,0V60" transform="translate(-12.27 -41.829)" fill="none" stroke="#00b956" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Эллипс_4" data-name="Эллипс 4" transform="translate(7.5)" fill="#e96980" stroke="#fff" stroke-width="1">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+    </g>
+  </g>
+</svg>
