@@ -1,0 +1,25 @@
+:root {
+  --mf-green: #00b956;
+  --mf-fiolet: #731982;
+  --mf-red: #EB5A40;
+  --text-blue: #34AAF2;
+  --text-gray: #999999;
+}
+
+.text-green {
+  color: var(--mf-green);
+}
+
+.text-fiolet {
+  color: var(--mf-fiolet);
+}
+
+.text-blue {
+  color: var(--text-blue);
+}
+
+.text-gray {
+  color: var(--text-gray);
+}
+
+/*# sourceMappingURL=colors.css.map */
